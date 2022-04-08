@@ -11,7 +11,7 @@ on:
   pull_request:
     branches: [ $default-branch ]
   schedule:
-    - cron: $cron-weekly
+    - cron: 0 0 * * SAT
 
 jobs:
   lint:
