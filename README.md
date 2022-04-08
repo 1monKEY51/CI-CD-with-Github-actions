@@ -2,7 +2,7 @@
 CI stands for continuous integration and npm ci is used to install all exact version dependencies or devDependencies from a package-lock. json file. 
 
 ## Close_Stale_PRs.yml
-Marks issues and pull requests that have not had recent interaction 
+Closes issues and pull requests that have not had recent interaction 
 
 ## DAST-MobSF.yml
 Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.
